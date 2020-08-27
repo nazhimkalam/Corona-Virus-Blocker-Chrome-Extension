@@ -1,2 +1,2 @@
-# Corona Virus Blocker Chrome Extension
+# Corona Virus Detector Chrome Extension
  
