@@ -1,5 +1,12 @@
 {
 	"manifest_version": 2,
 	"name": "CoronaVirus Detector",
-	"version": "0.1.0"
+	"version": "0.1.0",
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["scripts.js"],
+			"css": ["styles.css"]
+		}
+	]
 }
